@@ -15,7 +15,7 @@ This app is a simple sentiment analyzer created with the help of tensorflow. It 
 - The `requirements.txt` are the basic python libraries required to use the project.
 - The `app.py` is a Flask Webpage. This takes care of getting the data from the form and working as a RabbitMQ Producer.
 - The `templates` folder holdes the `home.html` webpage that has the form and displays the result.
-- The `worker.py` is a RabbitMQ worker that recieves the message from the Producer, makes a prediction and sends a reply back to the Producer. <br/><br/>
+- The `worker.py` is a RabbitMQ worker that recieves the message from the Producer (app.py), makes a prediction and sends a reply back to the Producer. <br/><br/>
 
 **Please Note: ModelCreation directory contains the code for building the model, however it is not required to run our project as we have stored the model seperately**
 
