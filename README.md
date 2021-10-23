@@ -44,4 +44,4 @@ python app.py
 Your app is setup!!. Now you should be able to open your browser at http://localhost:5000 and use the app.
 
 ## Footer <a name="footer"></a>
-Leave a star in GitHub if you found this helpful :)
+Feel free to leave a star in GitHub if you found this helpful :)
