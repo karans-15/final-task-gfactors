@@ -1,6 +1,6 @@
 # Sentiment Model
 
-# Table of Contents
+## Table of Contents
 - [What this webpage does](#introduction)
 - [Major elements of this repo](#major-elements)
 - [How it works](#how-it-works)
