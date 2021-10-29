@@ -39,7 +39,7 @@ Run the worker in one terminal
 ```
 python worker.py
 ```
-Run the flask app
+Run the flask app from another terminal
 ```
 python app.py
 ```
